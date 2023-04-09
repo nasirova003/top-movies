@@ -1,0 +1,13 @@
+#video {
+  padding: 50px 0;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.8692519244025736) 0%, rgba(0, 0, 0, 0.2863270308123249) 0%, rgba(13, 19, 45, 0.885766806722689) 0%, rgba(17, 18, 39, 1) 0%, rgba(15, 20, 27, 1) 0%, rgba(32, 14, 19, 0.6843779748227417) 100%);
+  .video {
+ display: flex;
+    align-items: center;
+overflow-x: auto;
+    &--card{
+margin: 0 30px 0 0;
+    }
+  }
+}

@@ -1,0 +1,20 @@
+#home {
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,0.8692519244025736) 0%, rgba(0,0,0,0.2863270308123249) 0%, rgba(13,19,45,0.885766806722689) 0%, rgba(17,18,39,1) 0%, rgba(45,84,130,1) 0%, rgba(32,14,19,0.6843779748227417) 100%);
+
+  .home {
+    height: 500px;
+    h1 {
+      color:white;
+      padding: 100px 0 20px;
+      font-size: 60px;
+    }
+
+    h2 {
+      color: whitesmoke;
+      font-size: 35px;
+      padding: 0 0 20px 0;
+    }
+
+  }
+}
